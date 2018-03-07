@@ -14,6 +14,7 @@ public class RobotClass3 {
 		String s=(String)Toolkit.getDefaultToolkit().getSystemClipboard().getData(DataFlavor.stringFlavor);
 		System.out.println(s);
 		System.out.println(s);
+		System.out.println(s);
 	
 		
 		
