@@ -13,6 +13,8 @@ public class RobotClass3 {
 		//To get Data in ClipBoard
 		String s=(String)Toolkit.getDefaultToolkit().getSystemClipboard().getData(DataFlavor.stringFlavor);
 		System.out.println(s);
+		System.out.println(s);
+	
 		
 		
 		
